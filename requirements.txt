@@ -1,0 +1,7 @@
+pandas
+openpyxl
+floweaver
+ipywidgets
+ipysankeywidget
+jupyter
+streamlit
